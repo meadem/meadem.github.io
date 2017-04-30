@@ -11,9 +11,17 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
+<<<<<<< HEAD
     background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+=======
+    background: url('/home/maxmeade/Developer Kit/tinam_v1.2/img/yuporf.JPG') no-repeat center center fixed;
+>>>>>>> b496de81c2b8fead5fa9136980c58d6f08b46726
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b496de81c2b8fead5fa9136980c58d6f08b46726
