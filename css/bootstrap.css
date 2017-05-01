@@ -1640,7 +1640,10 @@ pre code {
   width: 58.33333333%;
 }
 .col-xs-6 {
-  width: 50%;
+  width: auto;
+    height: auto;
+    max-width: auto;
+    max-height: auto;
 }
 .col-xs-5 {
   width: 41.66666667%;
@@ -1961,7 +1964,10 @@ pre code {
     width: 41.66666667%;
   }
   .col-md-4 {
-    width: 33.33333333%;
+    width: auto;
+    height: auto;
+    max-width: auto;
+    max-height: auto;
   }
   .col-md-3 {
     width: 25%;
@@ -2122,7 +2128,10 @@ pre code {
     width: 33.33333333%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: auto;
+    height: auto;
+    max-width: auto;
+    max-height: auto;
   }
   .col-lg-2 {
     width: 16.66666667%;
